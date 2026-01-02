@@ -5,6 +5,9 @@
 # * %EMAIL%
 # * %WEBSITE%
 # with provided values
+#
+# This script should be paired with a higher-level scriptlet
+# that would also replace images/avatar.png
 
 function usage() {
     echo "render.sh NAME EMAIL WEBSITE"
